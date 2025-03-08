@@ -28,7 +28,7 @@ In this part, I created a Python script to visualize the weather of over 500 cit
 
 2. **Compute Linear Regression for Each Relationship:**
 
-<img width="594" alt="linear-regression-plot" src="https://github.com/user-attachments/assets/d12c99e2-9638-4b8f-9530-d2b251bba58e" />
+![linear-regression-plot](https://github.com/user-attachments/assets/d12c99e2-9638-4b8f-9530-d2b251bba58e)
 
    - Northern Hemisphere: Temperature vs. Latitude
    - Southern Hemisphere: Temperature vs. Latitude
